@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/focus-Creative%20Tech-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/status-Active-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/founded-2025-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/founded-2024-orange?style=flat-square" />
 </p>
 
 ---
@@ -30,13 +30,13 @@
 
 ## 🗃️ Репозитории
 
-🔧 [PixelView](https://github.com/PixelSmith/PixelView)  
+🔧 [PixelView](https://github.com/PixelSmith-tech/PixelView)  
 > Android TV лаунчер нового поколения — акцент на стиль, скорость и кастомизацию.
 
-🧱 [PatcherTools](https://github.com/PixelSmith/PatcherTools)  
+🧱 [Custom FLash Tool](https://pixelsmith.tech/ru/cft.html)  
 > Гибкие тулзы и GUI-обёртки для различных задач (SP Flash Tool и не только).
 
-💡 Больше репозиториев — в [организации](https://github.com/PixelSmith)!
+💡 Больше репозиториев — в [организации](https://github.com/PixelSmith-tech)!
 
 ---
 
@@ -50,9 +50,9 @@
 
 ## 💬 Связь
 
-📫 **Почта:** support@pixelsmith.dev  
+📫 **Почта:** Скоро будет  
 🧠 **Идеи, баги и предложения:** [Issues](https://github.com/PixelSmith/PixelSmith/issues)  
-🏗️ **Сайт:** в разработке. Скоро будет 👀
+🏗️ **Сайт:** pixelsmith.tech
 
 ---
 
