@@ -1,6 +1,6 @@
 <h1 align="center">🎨 PixelSmith</h1>
 <p align="center">
-  <em>Мастерская цифровых идей и проектов</em>
+  <em>Crafting ideas in code and UI</em>
 </p>
 
 <p align="center">
@@ -9,53 +9,57 @@
   <img src="https://img.shields.io/badge/founded-2024-orange?style=flat-square" />
 </p>
 
----
-
-## 🔹 О нас
-
-**PixelSmith** — это небольшая, но амбициозная команда, создающая **уникальные проекты в мире технологий**, интерфейсов и пользовательского опыта.
-
-Мы не просто пишем код — мы **вытачиваем цифровые продукты**, как кузнец вытачивает клинок. С вниманием к деталям, с любовью к дизайну и с уважением к пользователю.
+<p align="center">
+  🇷🇺 <a href="README.ru.md">Читать на русском</a>
+</p>
 
 ---
 
-## 🧰 Наши направления
+## 🔹 About Us
 
-- 📺 **Лаунчеры и интерфейсы**: Android TV, кастомизация, UX
-- 💻 **Windows-приложения**: утилиты, тулзы, патчеры
-- 🌐 **Прототипы и концепты**: от интерфейсов до целых систем
-- 🧪 **Эксперименты с UI/UX**: Material Design, минимализм, анимации
+**PixelSmith** is a small yet ambitious team crafting **unique tech projects**, user interfaces, and creative digital tools.
+
+We don’t just write code — we **forge digital products** like a blacksmith crafts a blade. With precision, passion for design, and deep respect for the user.
 
 ---
 
-## 🗃️ Репозитории
+## 🧰 What We Do
+
+- 📺 **Launchers & Interfaces**: Android TV, customization, UX
+- 💻 **Windows Apps**: utilities, tools, patchers
+- 🌐 **Prototypes & Concepts**: from UI to entire systems
+- 🧪 **UI/UX Experiments**: Material Design, minimalism, animations
+
+---
+
+## 🗃️ Featured Projects
 
 🔧 [PixelView](https://github.com/PixelSmith-tech/PixelView)  
-> Android TV лаунчер нового поколения — акцент на стиль, скорость и кастомизацию.
+> Next-gen Android TV launcher — focused on style, speed, and customization.
 
-🧱 [Custom FLash Tool](https://pixelsmith.tech/ru/cft.html)  
-> Гибкие тулзы и GUI-обёртки для различных задач (SP Flash Tool и не только).
+🧱 [Custom Flash Tool](https://pixelsmith.tech/en/cft.html)  
+> Flexible GUI wrappers and tools (SP Flash Tool & more).
 
-💡 Больше репозиториев — в [организации](https://github.com/PixelSmith-tech)!
-
----
-
-## 🎯 Цели
-
-- Создавать открытые, полезные и красивые инструменты
-- Экспериментировать с форматами и взаимодействием
-- Делиться наработками и вдохновлять сообщество
+💡 Explore more on our [GitHub organization](https://github.com/PixelSmith-tech)!
 
 ---
 
-## 💬 Связь
+## 🎯 Our Goals
 
-📫 **Почта:** Скоро будет  
-🧠 **Идеи, баги и предложения:** [Issues](https://github.com/PixelSmith/PixelSmith/issues)  
-🏗️ **Сайт:** pixelsmith.tech
+- Create open, useful, and beautiful tools
+- Experiment with interaction and design formats
+- Share knowledge and inspire others
+
+---
+
+## 💬 Contact
+
+📫 **Email:** Coming soon  
+💡 **Ideas / Issues:** [GitHub Issues](https://github.com/PixelSmith/PixelSmith/issues)  
+🏗️ **Website:** [pixelsmith.tech](https://pixelsmith.tech)
 
 ---
 
 <p align="center">
-  <sub>Сделано с ❤️ в PixelSmith</sub>
+  <sub>Crafted with ❤️ by PixelSmith</sub>
 </p>
