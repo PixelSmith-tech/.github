@@ -54,8 +54,8 @@ We don’t just write code — we **forge digital products** like a blacksmith c
 
 ## 💬 Contact
 
-📫 **Email:** Coming soon  
-💡 **Ideas / Issues:** [GitHub Issues](https://github.com/PixelSmith/PixelSmith/issues)  
+📫 **Email:** dev@pixelsmith.tech  
+💡 **Ideas / Issues:** [GitHub Issues](https://github.com/PixelSmith-tech/PixelView/issues)  
 🏗️ **Website:** [pixelsmith.tech](https://pixelsmith.tech)
 
 ---
