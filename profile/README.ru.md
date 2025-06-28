@@ -54,8 +54,8 @@
 
 ## 💬 Связь
 
-📫 **Почта:** Скоро будет  
-🧠 **Идеи, баги и предложения:** [Issues](https://github.com/PixelSmith/PixelSmith/issues)  
+📫 **Почта:** dev@pixelsmith.tech  
+🧠 **Идеи, баги и предложения:** [Issues](https://github.com/PixelSmith-tech/PixelView/issues)  
 🏗️ **Сайт:** [pixelsmith.tech](https://pixelsmith.tech)
 
 ---
